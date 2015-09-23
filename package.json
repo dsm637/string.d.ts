@@ -1,0 +1,23 @@
+{
+  "name": "string-ts",
+  "version": "1.0.0",
+  "description": "Typed definitions for string.js package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": ">= 0.0.1",
+    "string": "*"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha -w"
+  },
+  "author": "DM",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.3.3",
+    "string": "^3.3.1"
+  }
+}
