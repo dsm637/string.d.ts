@@ -1,0 +1,6 @@
+# Ignoring generated files etc
+
+node_modules/
+typings/**/*.js
+
+test/string.js
